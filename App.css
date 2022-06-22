@@ -1,0 +1,11 @@
+body {
+  margin: 50px;
+}
+
+.graph {
+  color:red;
+}
+@media screen and (min-width: 480px) {
+  .graph{ width: auto ;
+  height:auto}
+   }
